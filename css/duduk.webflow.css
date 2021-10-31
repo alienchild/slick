@@ -3667,6 +3667,11 @@ BUTTON
   }
 }
 
+.progress_number{
+  font-size: 23px;
+font-weight: 700;
+}
+.progress_number_cell pt-2 pb-2{ padding: 20px; }
 /*------------------------------------------------------------------
 
 FONT
