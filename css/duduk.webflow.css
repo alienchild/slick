@@ -90,7 +90,7 @@ p {
 }
 
 a {
-  color: #926000;
+  color: #096ad0;
   text-decoration: underline;
 }
 
@@ -247,7 +247,7 @@ NAVIGATION
   padding: 16px 20px 18px;
   -webkit-transition: opacity 150ms ease;
   transition: opacity 150ms ease;
-  color: #096ad0;
+  color: #0d8aff;
   font-size: 15px;
   line-height: 24px;
   cursor: pointer;
@@ -294,7 +294,7 @@ NAVIGATION
 
 .nav-link-2.border.cta {
   border-style: none;
-  background-color: #926000;
+  background-color: #096ad0;
   color: #fff;
 }
 
@@ -597,7 +597,7 @@ BUTTON
   padding: 16px 25px;
   border: 1px none #096ad0;
   border-radius: 40px;
-  background-color: #926000;
+  background-color: #096ad0;
   box-shadow: 0 4px 11px 0 rgba(146, 96, 0, 0.35);
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
@@ -638,7 +638,7 @@ BUTTON
 
 .button.ghost:hover {
   border-style: solid;
-  background-color: #926000;
+  background-color: #096ad0;
   background-image: none;
   -webkit-transform: none;
   -ms-transform: none;
@@ -651,8 +651,8 @@ BUTTON
   padding-top: 16px;
   padding-bottom: 16px;
   border-style: none;
-  border-color: #926000;
-  background-color: #926000;
+  border-color: #096ad0;
+  background-color: #096ad0;
   box-shadow: 0 4px 11px 0 rgba(117, 69, 1, 0.33);
   -webkit-transition-duration: 700ms;
   transition-duration: 700ms;
@@ -758,8 +758,8 @@ BUTTON
 .nav-link.w--current {
   padding-right: 0px;
   padding-left: 0px;
-  border-bottom: 4px solid #926000;
-  color: #926000;
+  border-bottom: 4px solid #096ad0;
+  color: #096ad0;
 }
 
 .hero-title {
@@ -1160,7 +1160,7 @@ BUTTON
 
 .link {
   font-family: 'Open Sans', sans-serif;
-  color: #926000;
+  color: #096ad0;
   font-size: 12px;
   font-weight: 600;
   letter-spacing: 1px;
